@@ -1,0 +1,5 @@
+﻿  Lab1.cpp
+D:\РХТУ\Studying\Course 3\semester 6\algoritms and stuctures of data\Lab_ 1\Lab1\Lab1\Lab1.cpp(63,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\РХТУ\Studying\Course 3\semester 6\algoritms and stuctures of data\Lab_ 1\Lab1\Lab1\Lab1.cpp(80,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\РХТУ\Studying\Course 3\semester 6\algoritms and stuctures of data\Lab_ 1\Lab1\Lab1\Lab1.cpp(99,29): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lab1.vcxproj -> D:\РХТУ\Studying\Course 3\semester 6\algoritms and stuctures of data\Lab_ 1\Lab1\x64\Debug\Lab1.exe
