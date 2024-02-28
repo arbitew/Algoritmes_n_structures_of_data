@@ -1,0 +1,13 @@
+﻿  Lab_2_p.cpp
+D:\РХТУ\Studying\Course 3\semester 6\algoritms and stuctures of data\Lab_2\Lab_2_p\Lab_2_p\Lab_2_p.cpp(106,46): warning C4244: аргумент: преобразование "_Rep" в "_Ty", возможна потеря данных
+          with
+          [
+              _Rep=double
+          ]
+          and
+          [
+              _Ty=__int64
+          ]
+D:\РХТУ\Studying\Course 3\semester 6\algoritms and stuctures of data\Lab_2\Lab_2_p\Lab_2_p\Lab_2_p.cpp(53,37): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\РХТУ\Studying\Course 3\semester 6\algoritms and stuctures of data\Lab_2\Lab_2_p\Lab_2_p\Lab_2_p.cpp(72,22): message : выполняется компиляция ссылки на экземпляр шаблон функции "void quickSort<int>(std::vector<int,std::allocator<int>> &)"
+  Lab_2_p.vcxproj -> D:\РХТУ\Studying\Course 3\semester 6\algoritms and stuctures of data\Lab_2\Lab_2_p\x64\Debug\Lab_2_p.exe
