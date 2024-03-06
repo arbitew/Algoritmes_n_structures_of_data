@@ -1,0 +1,13 @@
+﻿  Lab_3.cpp
+D:\РХТУ\Studying\Course 3\semester 6\algoritms and stuctures of data\Lab_3\Lab_3\Lab_3\Lab_3.cpp(377,29): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\РХТУ\Studying\Course 3\semester 6\algoritms and stuctures of data\Lab_3\Lab_3\Lab_3\Lab_3.cpp(194,31): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\РХТУ\Studying\Course 3\semester 6\algoritms and stuctures of data\Lab_3\Lab_3\Lab_3\Lab_3.cpp(166,1): message : во время компиляции функции-члена класс шаблон "void DoublyLinkedList<int>::bubbleSort(void)"
+D:\РХТУ\Studying\Course 3\semester 6\algoritms and stuctures of data\Lab_3\Lab_3\Lab_3\Lab_3.cpp(380,29): message : выполняется компиляция ссылки на экземпляр шаблон функции "void DoublyLinkedList<int>::bubbleSort(void)"
+D:\РХТУ\Studying\Course 3\semester 6\algoritms and stuctures of data\Lab_3\Lab_3\Lab_3\Lab_3.cpp(284,27): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "DoublyLinkedList<int>"
+D:\РХТУ\Studying\Course 3\semester 6\algoritms and stuctures of data\Lab_3\Lab_3\Lab_3\Lab_3.cpp(74): warning C4715: DoublyLinkedList<int>::start: значение возвращается не при всех путях выполнения
+D:\РХТУ\Studying\Course 3\semester 6\algoritms and stuctures of data\Lab_3\Lab_3\Lab_3\Lab_3.cpp(85): warning C4715: DoublyLinkedList<int>::itLength: значение возвращается не при всех путях выполнения
+  Lab_3.vcxproj -> D:\РХТУ\Studying\Course 3\semester 6\algoritms and stuctures of data\Lab_3\Lab_3\x64\Debug\Lab_3.exe
