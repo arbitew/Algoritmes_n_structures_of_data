@@ -1,0 +1,4 @@
+﻿  Lab_6.cpp
+D:\РХТУ\Studying\Course 3\semester 6\algoritms and stuctures of data\Lab_5\Lab_6\Lab_6\Lab_6.cpp(409,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\РХТУ\Studying\Course 3\semester 6\algoritms and stuctures of data\Lab_5\Lab_6\Lab_6\Lab_6.cpp(413,18): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Lab_6.vcxproj -> D:\РХТУ\Studying\Course 3\semester 6\algoritms and stuctures of data\Lab_5\Lab_6\x64\Debug\Lab_6.exe
