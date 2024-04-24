@@ -1,0 +1,5 @@
+﻿  Lab_8.cpp
+D:\РХТУ\Studying\Course 3\semester 6\algoritms and stuctures of data\Lab_8\Lab_8\Lab_8\Lab_8.cpp(43,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\РХТУ\Studying\Course 3\semester 6\algoritms and stuctures of data\Lab_8\Lab_8\Lab_8\Lab_8.cpp(213,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\РХТУ\Studying\Course 3\semester 6\algoritms and stuctures of data\Lab_8\Lab_8\Lab_8\Lab_8.cpp(260,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Lab_8.vcxproj -> D:\РХТУ\Studying\Course 3\semester 6\algoritms and stuctures of data\Lab_8\Lab_8\x64\Debug\Lab_8.exe
